@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-12-27 20:34:43" Modified_Date="2023-12-07 21:06:53" Creator="YUGONGHUI" Comments="" ID="e01f283d34a70ba3a5b12144fd73426f">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-12-27 20:34:43" Modified_Date="2023-12-12 15:31:30" Creator="YUGONGHUI" Comments="" ID="ee830f26215d784937e429ba43bb5a11">
   <Library_General_Settings>
     <Package_File_Name>YU_lib_YU_CRC</Package_File_Name>
     <Library_Version>1.0.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>_build</Library_Output_Folder>
+    <Library_Output_Folder>..</Library_Output_Folder>
     <Company_Name>YU</Company_Name>
     <Library_Summary/>
     <Library_License/>
@@ -499,7 +499,7 @@ CRC32¡¢CRC32 MPEG 2</Description>
         <Path>Method\CRC16 DNP.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>81E0C15871ACB98212DFC0AA908C0241</GUID>
+      <GUID>27E6C86CA605DB9056E15B7E26F433FD</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
