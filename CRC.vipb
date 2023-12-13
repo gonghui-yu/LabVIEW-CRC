@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-12-27 20:34:43" Modified_Date="2023-12-12 16:53:07" Creator="YUGONGHUI" Comments="" ID="3a7ec44c41a0321648bfa9ea1f5cf16c">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-12-27 20:34:43" Modified_Date="2023-12-13 09:06:59" Creator="YUGONGHUI" Comments="" ID="0f0276740ed11cbcd16b489c1874725a">
   <Library_General_Settings>
     <Package_File_Name>YU_lib_YU_CRC</Package_File_Name>
     <Library_Version>1.0.0.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..</Library_Output_Folder>
+    <Library_Output_Folder>_build</Library_Output_Folder>
     <Company_Name>YU</Company_Name>
     <Library_Summary/>
     <Library_License/>
@@ -25,7 +25,7 @@
       <Pre-Uninstall_VI/>
       <Post-Uninstall_VI/>
     </Custom_Action_VIs>
-    <VI_Package_Configuration_File>YU_CRC.vipc</VI_Package_Configuration_File>
+    <VI_Package_Configuration_File>CRC.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary/>
       <Description>提供常用标准CRC校验码计算函数，包含：
@@ -499,7 +499,7 @@ CRC32、CRC32 MPEG 2</Description>
         <Path>Method\CRC32.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9BF15AB922AA36151D7D05CE1318C936</GUID>
+      <GUID>1087F5C60DE4BE8B56DE5E94991CAE09</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
